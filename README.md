@@ -16,10 +16,7 @@ This project analyzes Boeing’s stock price movement surrounding the Air India 
 - `lubridate` for date handling  
 
 ## 📈 Visualizations
-![Forecast Plot](forecast_plot.png)  
-*ARIMA forecast of Boeing stock price post-crash.*
-
-![Combined Stock Plot](combined_stock_plot.png)  
+![Combined Stock Plot](Boeing 7 Day Forecast.png)  
 *Stock price with forecast and crash date marked.*
 
 ## 🔍 Key Insights
